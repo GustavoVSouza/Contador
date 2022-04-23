@@ -1,0 +1,36 @@
+body {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: column;
+    background-color: black;
+    font-size: 40px;
+    color: white;
+}
+
+#contador{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    flex-direction: row;
+}
+
+.Subtrair{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border-color: aliceblue;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    margin-right: 10px;
+}
+
+.Adicionar{
+    height: 50px;
+    width: 50px;
+    border-radius: 50%;
+    border-color: aliceblue;
+    background-color: rgb(0, 0, 0);
+    color: white;
+    margin-left: 10px;
+}
